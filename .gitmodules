@@ -1,3 +1,6 @@
 [submodule "appimage-urxvt"]
 	path = appimage-urxvt
 	url = https://github.com/appstew/appimage-urxvt.git
+[submodule "appimage-python-template"]
+	path = appimage-python-template
+	url = https://github.com/appstew/appimage-python-template.git
