@@ -4,3 +4,6 @@
 [submodule "appimage-python-template"]
 	path = appimage-python-template
 	url = https://github.com/appstew/appimage-python-template.git
+[submodule "appimage-OrangeCanvas"]
+	path = appimage-OrangeCanvas
+	url = https://github.com/appstew/appimage-OrangeCanvas.git
